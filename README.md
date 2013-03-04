@@ -1,7 +1,7 @@
 cronometro
 ==========
 
-Cronometro en Windows Phone. Dos botoenes play/pausa y detener.
+Cronometro en Windows Phone. Dos botones play/pausa y detener.
 
 Windows Phone 7.1
 
